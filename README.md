@@ -5,6 +5,12 @@ Due to github disk limit, I can't deploy the site, so wait til I turn my laptop 
 
 If you want the past papers directly from github, it's located in [static/pp](https://github.com/Lucasyh/dse.life-mirror/tree/main/static/pp)
 
+Todo:
+- [ ] Clean up old code from the old site
+- [ ] Add the missing past papers
+
+I’ll be sure to work on it once in a blue moon
+
 # Contribute
 I am currently looking for missing past papers to add to this site. 
 
